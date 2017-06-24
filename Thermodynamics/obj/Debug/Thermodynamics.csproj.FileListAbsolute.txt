@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Thermodynamics\Thermodynamics\bin\Debug\Thermodynamics.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Thermodynamics\Thermodynamics\bin\Debug\Thermodynamics.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Thermodynamics\Thermodynamics\bin\Debug\Thermodynamics.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Thermodynamics\Thermodynamics\obj\Debug\Thermodynamics.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Thermodynamics\Thermodynamics\obj\Debug\Thermodynamics.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Thermodynamics\Thermodynamics\obj\Debug\Thermodynamics.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Thermodynamics\Thermodynamics\obj\Debug\Thermodynamics.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Thermodynamics\Thermodynamics\obj\Debug\Thermodynamics.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Thermodynamics\Thermodynamics\obj\Debug\Thermodynamics.pdb
